@@ -3,3 +3,4 @@ Hello world!
 Poka
 line from user2
 Lise from user1
+some new feature
